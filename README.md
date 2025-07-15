@@ -6,8 +6,8 @@ A real-world inspired data analytics project that simulates and analyzes the per
 
 ##  Demo
 
- Coming soon — Power BI dashboard hosted via GitHub or shared as report file.
-
+Case Study: Water Supply Distribution Analysis.
+https://rkthedataanalyst.blogspot.com/
 
 ## Table of Contents
 
